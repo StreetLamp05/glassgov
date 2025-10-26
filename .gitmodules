@@ -1,0 +1,6 @@
+[submodule "glassgov-be"]
+	path = glassgov-be
+	url = https://github.com/StreetLamp05/glassgov-be.git
+[submodule "glassgov-fe"]
+	path = glassgov-fe
+	url = https://github.com/StreetLamp05/glassgov-fe.git
